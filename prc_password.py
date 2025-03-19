@@ -45,4 +45,4 @@ st.title('password strength we Application')
 st.subheader('--:  here you can ceck your password how much hard  :--')
 
 
-pass = st.text_input('--:  Please Enter your password Here  :--',type='password',help='Enter Correct Password')
+password = st.text_input('--:  Please Enter your password Here  :--',type='password',help='Enter Correct Password')
